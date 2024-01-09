@@ -2,7 +2,8 @@
         "home":[
             {
                 "name": "Hi, I am Asithandile Tyulu",
-                "greeting": "I am an aspiring fullstack developer"
+                "greeting": "I am an aspiring fullstack developer",
+                "profilePicture": "https://cdn-thumbs.imagevenue.com/de/5a/8c/ME17G5WC_t.png"
             }
         ],
         "about":[
@@ -150,19 +151,19 @@
                 "fullName": "Damon Raffels",
                 "testimony": "Asithandile is a dedicated worker with an infectious personality and excellent people skills. He has strong resolve, works well with others and keeps an open mind to different points of view.",
                 "relationship": "Colleauge",
-                "picture": "https://www.imagevenue.com/ME17G463"
+                "picture": "https://cdn-thumbs.imagevenue.com/54/4d/39/ME17G5VI_t.jpg"
             },
             {
                 "fullName": "Matthew Brown",
                 "testimony": "Asithandile is an eager, humble and hardworking individual. He always strives for excellence. Having a creative mindset, which helps him overcome many obstacles and challenges.",
                 "relationship": "Lecturer",
-                "picture": "https://imgur.com/ES18anh" 
+                "picture": "https://cdn-thumbs.imagevenue.com/b7/a0/da/ME17G5RW_t.png" 
             },
             {
                 "fullName": "Naeema Omar",
                 "testimony": "I believe Asithandile is a great asset for any company that chooses to work with him given that on top of his technical skills, he's also sociable, deeply introspective and has a high emotional intelligence making him a great colleague to have.",
                 "relationship": "Colleauge",
-                "picture": "https://imgur.com/a/aCKfhiR" 
+                "picture": "https://cdn-thumbs.imagevenue.com/99/4c/64/ME17G5W2_t.png" 
             },
             {
                 "fullName": "Thandeka Sineli",
