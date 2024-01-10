@@ -9,7 +9,8 @@
         "about":[
             {
                 "paragraph": "I am an aspiring fullstack developer, a dynamic and passionate writer and former Community Coordinator & Tech Support at Fundza Literacy Trust, a South African non-profit organization that promotes literacy and a love of reading among young people. I am currently studying fullstack development at Life Choices Academy. I fell in love with coding in my role at Fundza, as I had to liaise with ICT service providers to ensure that the site was working well and offering the audience the best user experience. I then left the organisation to pursue software development studies to achieve my goal of being a software developer. In my spare time I like to reading, my favourite book is The Rapture of Canaan by Sheri Reynolds an hounarable mention would be, The Da Vinci Code by Dan Brown. I also love listen to music, Guillotine by Jon Bellion is my favourite song of all time. And last but not least, I love learning more about coding - I take it one language at a time.",
-                "ContactBTN": "Let's Connect"
+                "ContactBTN": "Let's Connect",
+                "WhatsApp": https://api.whatsapp.com/send?phone=27818993523
             }
         ],
         "projects":[
@@ -19,7 +20,8 @@
                 "BTN1": "GitHub",
                 "BTN2": "Netlify",
                 "link1": "https://github.com/AsithandileNyjah/e-CommerceSite.git",
-                "link2": "https://profound-dango-271e7d.netlify.app/"
+                "link2": "https://profound-dango-271e7d.netlify.app/",
+                "proImg": "https://cdn-thumbs.imagevenue.com/12/da/eb/ME17GC2D_t.png"
             },
             {
                 "projectsName": "E-Commerce Site 2",
@@ -27,15 +29,17 @@
                 "BTN1": "GitHub",
                 "BTN2": "Netlify",
                 "link1": "https://github.com/AsithandileNyjah/eCommerceSite.git",
-                "link2": "https://stalwart-strudel-0dd00a.netlify.app/"
+                "link2": "https://stalwart-strudel-0dd00a.netlify.app/",
+                "proImg": "https://cdn-thumbs.imagevenue.com/e6/9e/1b/ME17GC2P_t.png"
             },
             {
-                "projectsName": "First Portfolio",
-                "description": "This is my first developer portfolio. It was made with HTML, CSS and Bootstrap.",
+                "projectsName": "RGB to HEX",
+                "description": "I create a site that converts RGB to Hexademicals. It was made with JavaScript, HTML, CSS and Bootstrap.",
                 "BTN1": "GitHub",
                 "BTN2": "Netlify",
-                "link1": "https://github.com/AsithandileNyjah/asithandilePortfolio.git",
-                "link2": "https://gregarious-crumble-79729d.netlify.app/"
+                "link1": "https://github.com/AsithandileNyjah/rgbToHex.git",
+                "link2": "https://heroic-jelly-de6476.netlify.app/",
+                "proImg": "https://cdn-thumbs.imagevenue.com/d4/dc/b0/ME17GC40_t.png"
             },
             {
                 "projectsName": "Interest Calculator",
@@ -43,15 +47,17 @@
                 "BTN1": "GitHub",
                 "BTN2": "Netlify",
                 "link1": "https://github.com/AsithandileNyjah/interestAmount.git",
-                "link2": "https://astounding-stardust-83be5e.netlify.app/"
+                "link2": "https://astounding-stardust-83be5e.netlify.app/",
+                "proImg": "https://cdn-thumbs.imagevenue.com/9b/bf/30/ME17GC4F_t.png" alt="IAC.png"
             },
             {
-                "projectsName": "BMI Calculator",
-                "description": "I made a fully functional BMI calculator using JavaScript, HTML, CSS and Boostrap 5.",
+                "projectsName": "To Do List",
+                "description": "I made a fully functional To Do List using JavaScript, HTML, CSS and Boostrap 5.",
                 "BTN1": "GitHub",
                 "BTN2": "Netlify",
-                "link1": "https://github.com/AsithandileNyjah/bmiCalculator.git",
-                "link2": "https://tubular-bienenstitch-de2ffa.netlify.app/"
+                "link1": "https://github.com/AsithandileNyjah/toDoList.git",
+                "link2": "https://fancy-stroopwafel-3c20cb.netlify.app/",
+                "proImg": "https://cdn-thumbs.imagevenue.com/9c/61/f1/ME17GC0N_t.png"
             },
             {
                 "projectsName": "Calculator",
@@ -59,7 +65,8 @@
                 "BTN1": "GitHub",
                 "BTN2": "Netlify",
                 "link1": "https://github.com/AsithandileNyjah/calculator.git",
-                "link2": "https://golden-starlight-69d397.netlify.app/"
+                "link2": "https://golden-starlight-69d397.netlify.app/",
+                "proImg": "https://cdn-thumbs.imagevenue.com/8d/cc/38/ME17GC10_t.png"
             }
         ],
         "resume": [
@@ -113,37 +120,37 @@
             {
                 "skill": "JavaScript",
                 "level": "Intermediate",
-                "skillImage": "https://www.imagevenue.com/ME17G3TQ" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/ff/c8/05/ME17GBY0_t.png" alt="187-Js-logo-logos-512.png" 
             },
             {
                 "skill": "HTML 5",
                 "level": "Advanced",
-                "skillImage": "https://www.imagevenue.com/ME17G3UC" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/90/4e/f9/ME17GBY4_t.png" 
             },
             {
                 "skill": "Bootstrap 5",
                 "level": "Intermediate",
-                "skillImage": "https://www.imagevenue.com/ME17G3U1" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/61/cf/b5/ME17GBY6_t.png" alt="bootstrap-logo.png" 
             },
             {
                 "skill": "Git",
                 "level": "Intermediate",
-                "skillImage": "https://www.imagevenue.com/ME17G3VB" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/73/94/29/ME17GBY9_t.png" 
             },
             {
                 "skill": "CSS3",
                 "level": "Intermediate",
-                "skillImage": "https://www.imagevenue.com/ME17G3UD" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/45/1e/8b/ME17GBYE_t.png" 
             },
             {
                 "skill": "VueJS",
                 "level": "Beginner",
-                "skillImage": "https://www.imagevenue.com/ME17G3UV" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/56/3c/43/ME17GBYI_t.png" alt="Vue-js-Logo-2.png" 
             },
             {
                 "skill": "Content Writing/Production",
                 "level": "Advanced",
-                "skillImage": "https://www.imagevenue.com/ME17G3V9" 
+                "skillImage": "https://cdn-thumbs.imagevenue.com/40/62/ed/ME17GBYK_t.jpg" alt="aaron-burden-y02jEX_B0O0-unsplash.jpg" 
             }
         ],
         "testimonials":[
@@ -171,5 +178,11 @@
                 "relationship": "Colleauge",
                 "picture": "https://i.postimg.cc/wT88yZwP/20231009-135121-1.jpg" 
             }
+        ],
+        "contact":[
+                "number": "0818993523",
+                "email": "atyuluu@gmail.com",
+                "linkedIn": "www.linkedin.com/in/asithandile-tyulu-a12006171",
+                "GitHub": "https://github.com/AsithandileNyjah"
         ]
 }
