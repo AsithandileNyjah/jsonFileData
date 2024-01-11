@@ -179,12 +179,24 @@
             "testimony": "Asithandile is an exceptionally hardworking individual with a creative and analytical mind. His ability to approach challenges with an open mind and find innovative solutions is truly impressive. Working with Asithandile is a rewarding experience, as his dedication and problem-solving skills contribute immensely to the success of any project.",
             "relationship": "Colleauge",
             "picture": "https://i.postimg.cc/wT88yZwP/20231009-135121-1.jpg" 
+        },
+        {
+            "fullName": "Tauha Hussain Shaik",
+            "testimony": "Asithandile is a Hardworking individual, that strives to achieve the best at all times. Through his calm demeanor and critical thinking he excels in providing even under the most pressured environments and circumstances. Asithandile's ability to assess, rationalize and be decisive is a key attribute to his character, especially when needed to cooperate without others. he is a valuable asset to whomever he engages with and provides for.",
+            "relationship": "Colleauge",
+            "picture": "https://cdn-thumbs.imagevenue.com/76/e3/08/ME17GJ52_t.jpg"
+        },
+        {
+            "fullName": "Nontando Nokilana",
+            "testimony": "Asithandile is truly inspiring and exceptionally knowledgeable. He brings a remarkable depth to his work, skilfully balancing moments of enjoyment with a strong sense of seriousness. His interactions with both himself and his colleagues are marked by grace and respect, reflecting his admirable demeanour. With an infectious energy for learning, he actively drives meaningful conversations. As an outstanding team player, Asithandile exhibits strong leadership qualities that contribute to the overall success of the team.",
+            "relationship": "Colleauge",
+            "picture": "https://cdn-thumbs.imagevenue.com/06/59/a0/ME17GJ57_t.jpg"
         }
     ],
     "contact":[
             {"number": "0818993523"},
             {"email": "atyuluu@gmail.com"},
-            {"linkedIn": "www.linkedin.com/in/asithandile-tyulu-a12006171"},
+            {"linkedIn": "https://linkedin.com/in/asithandile-tyulu-a12006171"},
             {"GitHub": "https://github.com/AsithandileNyjah"}
     ]
 }
