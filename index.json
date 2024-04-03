@@ -144,6 +144,11 @@
             "level": "Intermediate",
             "skillImage": "https://cdn-thumbs.imagevenue.com/45/1e/8b/ME17GBYE_t.png" 
         },
+                {
+            "skill": "mySQL",
+            "level": "Intermediate",
+            "skillImage": "https://cdn-thumbs.imagevenue.com/0d/9c/f0/ME17Z329_t.png" 
+        },
         {
             "skill": "VueJS",
             "level": "Beginner",
@@ -182,7 +187,7 @@
         },
         {
             "fullName": "Tauha Hussain Shaik",
-            "testimony": "Asithandile is a Hardworking individual, that strives to achieve the best at all times. Through his calm demeanor and critical thinking he excels in providing even under the most pressured environments and circumstances. Asithandile's ability to assess, rationalize and be decisive is a key attribute to his character, especially when needed to cooperate without others. he is a valuable asset to whomever he engages with and provides for.",
+            "testimony": "Asithandile is a hardworking individual, that strives to achieve the best at all times. Through his calm demeanor and critical thinking he excels in providing even under the most pressured environments and circumstances. Asithandile's ability to assess, rationalise and be decisive is a key attribute to his character, especially when needed to cooperate with others. He is a valuable asset to whomever he engages with and provides for.",
             "relationship": "Colleague",
             "picture": "https://cdn-thumbs.imagevenue.com/76/e3/08/ME17GJ52_t.jpg"
         },
