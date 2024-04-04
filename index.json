@@ -130,6 +130,12 @@
             "level": "Intermediate",
             "skillImage": "https://cdn-thumbs.imagevenue.com/ff/c8/05/ME17GBY0_t.png" 
         },
+        
+        {
+            "skill": "NodeJS",
+            "level": "Intermediate",
+            "skillImage": "https://iili.io/JNEMWOX.png" 
+        },
         {
             "skill": "HTML 5",
             "level": "Advanced",
