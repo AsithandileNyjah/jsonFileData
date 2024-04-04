@@ -25,6 +25,15 @@
             "link2": "https://profound-dango-271e7d.netlify.app/",
             "proImg": "https://cdn-thumbs.imagevenue.com/12/da/eb/ME17GC2D_t.png"
         },
+                {
+            "projectsName": "Collaborative Project",
+            "description": "This was a collaborative project, putting to work all the skills learnt at life choice. This used a robust technology stack, HTML5, Boostrap, CSS3, VueJS, NodeJS, JavaScript and MySQL. I mainly worked on the backend of the project.",
+            "BTN1": "GitHub",
+            "BTN2": "Firebase",
+            "link1": "https://github.com/AsithandileNyjah/NODEJSEOMP.git",
+            "link2": "https://nodejseomp-5aae1.firebaseapp.com/",
+            "proImg": "https://cdn-thumbs.imagevenue.com/ad/5a/14/ME17ZH87_t.png"
+        },
         {
             "projectsName": "E-Commerce Site 2",
             "description": "This is my first e-commerce site. The site was made with HTML, CSS and Bootstrap.",
